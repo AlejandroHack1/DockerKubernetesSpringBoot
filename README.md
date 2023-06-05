@@ -16,9 +16,11 @@ elimina contenedores detenidos
 crear network Docker
 ``` docker network create spring ```
 
+# docker-compose
 ejecutar docker-compose dettach
 ``` docker-compose  up -d  ```
 
+# DockerHub
 DockerHub
 ```docker login ```
 
